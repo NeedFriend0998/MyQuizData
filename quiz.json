@@ -1,0 +1,43 @@
+{
+  "subjects": [
+    {
+      "id": "ipa",
+      "name": "IPA",
+      "reading": "Teks bacaan untuk pelajaran IPA ada di sini...",
+      "questions": [
+        {
+          "question": "Apa inti bacaan tersebut?",
+          "options": [
+            "Jawaban A",
+            "Jawaban B",
+            "Jawaban C",
+            "Jawaban D"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Soal kedua?",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "id": "ips",
+      "name": "IPS",
+      "reading": "Bacaan IPS ada di sini...",
+      "questions": [
+        {
+          "question": "Soal IPS pertama?",
+          "options": ["A", "B", "C", "D"],
+          "answer": 0
+        }
+      ]
+    }
+  ]
+}
