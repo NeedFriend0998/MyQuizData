@@ -2,8 +2,8 @@
   "subjects": [
     {
       "id": "pai",
-      "name": "Pendidikan Agama Islam",
-      "reading": "A A A",
+      "name": "PAI",
+      "reading": "A A A B B B",
       "questions": [
         {
           "question": "Apa inti bacaan tersebut?",
