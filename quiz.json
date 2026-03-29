@@ -8,11 +8,12 @@
         {
           "question": "apa itu Al - iqrar?",
           "options": [
+            "Yo ndak tahu tanya kok tanya saya",
             "Al - iqrar di dalam iman secara bahasa adalah pengakuan",
             "Al - iqrar di dalam iman secara bahasa adalah yang melahirkan sikap menerima",
             "Al - iqrar di dalam iman secara bahasa adalah tunduk"
           ],
-          "answer": 0
+          "answer": 1
         },
         {
           "question": "Apa itu Iman secara istilah?",
