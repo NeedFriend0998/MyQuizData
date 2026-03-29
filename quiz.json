@@ -23,7 +23,7 @@ null = "tidak ada jawaban yang benar"
             "C",
             "D"
           ],
-          "answer": 2
+          "answer": null
         }
       ]
     },
