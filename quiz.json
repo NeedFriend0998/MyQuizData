@@ -3,7 +3,10 @@
     {
       "id": "pai",
       "name": "PAI",
-      "reading": "a",
+      "reading": [
+        "iman secara bahasa is pengakuan (al - iqrar ), yang melahirkan sikap menerima ( al - qabul ) dan tunduk ( al - izzian )",
+        "a"
+        ],
       "questions": [
         {
           "question": "Apa inti bacaan tersebut?",
