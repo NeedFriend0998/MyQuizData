@@ -34,7 +34,11 @@
       "questions": [
         {
           "question": "Soal IPS pertama?",
-          "options": ["A", "B", "C", "D"],
+          "options": [
+            "A", 
+            "B", 
+            "C", 
+            "D"],
           "answer": 0
         }
       ]
