@@ -89,6 +89,16 @@
             "2018"
             ],
           "answer": 0
+        },
+        {
+          "question": "Berapa tahun presiden soeharto memerintah di Indonesia?",
+          "options": [
+            "9 tahun", 
+            "15 tahun", 
+            "32 tahun", 
+            "1 tahun"
+            ],
+          "answer": 2
         }
         
       ]
