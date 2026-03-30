@@ -81,14 +81,14 @@
           "answer": 1
         },
         {
-          "question": "Berapa tahun presiden Soeharto memerintah di Indonesia?",
+          "question": "Kapan masa reformasi Indonesia di mulai setelah terjadi kejadian tragedi reformasi 1998 yang memaksa soeharto untuk mengundurkan diri?",
           "options": [
-            "6 juta abad", 
-            "32 tahun", 
-            "2012 - 2023", 
-            "40 tahun"
+            "1998", 
+            "200 SM", 
+            "2012", 
+            "2018"
             ],
-          "answer": 1
+          "answer": 0
         }
         
       ]
