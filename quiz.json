@@ -116,10 +116,12 @@
       "reading": "Pidato adalah sebuah penyampaian pesan dari seorang pembicara kepada pendengar. \nCiri - Ciri pidato:\n• Memiliki tujuan yang jelas & menarik\n• Isinya mengandung kebenaran\n• Pidato harus bersifat efektif\n• Bisa diselingi dengan humor\n\nOrator adalah Orang yang menyampaikan pidato.\nAudiens adalah orang yang mendengarkan pidato atau orang yang menyimak pidato.\n Audiens biasanya berumur 17 tahun ke atas.",
       "imageUrl": "",
       "questions": [
+                  "answerTexts": [ "sebuah penyampaian pesan dari seorang pembicara kepada para pendengar", "Sebuah pesan yang di sampaikan dari pembicara kepada pendengar", "Sebuah penyampaian pesan dari seorang pembicara kepada pendengar", "Sebuah penyampaian pesan dari seorang pembicara kepada pendengar" ]
+        },
         {
-          "question": "Apa itu pidato",
+          "question": "Sebutkan Ciri - Ciri Teks Pidato",
           "type": "uraian",
-          "answerTexts": [ "sebuah penyampaian pesan dari seorang pembicara kepada para pendengar", "Sebuah pesan yang di sampaikan dari pembicara kepada pendengar", "Sebuah penyampaian pesan dari seorang pembicara kepada pendengar", "Sebuah penyampaian pesan dari seorang pembicara kepada pendengar" ]
+          "answerTexts": [ "Memiliki tujuan yang jelas dan menarik", "Isinya mengandung kebenaran", "Bisa di selingi dengan humor", "Memiliki tujuan yang jelas dan menarik\nIsinya mengandung kebenaran\nBisa di selingi dengan humor" ]
         }
       ]
     }
