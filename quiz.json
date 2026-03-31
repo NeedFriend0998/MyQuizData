@@ -125,6 +125,11 @@
           "question": "sebutkan ciri ciri teks pidato",
           "type": "uraian",
           "answerTexts": [ "Memiliki tujuan yang jelas dan menarik", "Bisa diselingi dengan humor", "Isinya mengandung kebenaran", "Pidato harus bersifat efektif", "Memiliki tujuan yang jelas dan menarik, Bisa diselingi dengan humor, Isinya mengandung kebenaran, Pidato harus bersifat efektif", "Memiliki tujuan yang jelas dan menarik, Bisa diselingi dengan humor", "Memiliki tujuan yang jelas dan menarik, Bisa diselingi dengan humor, Isinya mengandung kebenaran", "Memiliki tujuan yang jelas dan menarik, Bisa diselingi dengan humor, Pidato harus bersifat efektif"]
+        },
+        {
+          "question": "Sebutkan 2 contoh salam pembuka dalam pidato",
+          "type": "uraian",
+          "answerTexts": [ "Assalamualaikum dan Selamat Pagi", "Puji syukur ke hadirat Tuhan Yang Maha Esa dan terimakasih atas kesempatan para hadirin", "Para Hadirin dan Assalamualaikum" ]
         }
       ]
     }
