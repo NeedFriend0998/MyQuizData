@@ -99,8 +99,39 @@
             "1 tahun"
             ],
           "answer": 2
+        },
+        {
+      "id": "pai",
+      "name": "PAI",
+      "reading": "iman secara bahasa adalah pengakuan (al - iqrar ), yang melahirkan sikap menerima ( al - qabul ) dan tunduk ( al - izzian ).\n Iman secara istilah yaitu membenarkan dengan hati, mengikrarkan dengan lisan, dan membuktikan dengan perbuatan",
+      "questions": [
+        {
+          "question": "apa itu Al - iqrar?",
+          "options": [
+            "Serah, gue bukan ustadz 😭",
+            "Yo ndak tahu tanya kok tanya saya",
+            "Al - iqrar di dalam iman secara bahasa adalah pengakuan",
+            "Al - iqrar di dalam iman secara bahasa adalah yang melahirkan sikap menerima",
+            "Al - iqrar di dalam iman secara bahasa adalah tunduk"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Apa itu Iman secara istilah?",
+          "options": [
+            "Serah, gue bukan ustadz 😭",
+            "Tanya Google sana",
+            "Yang penting yakin dulu aja 🗿",
+            "Yo ndak tahu tanya kok tanya saya",
+            "hanya percaya sekali",
+            "Ikut ikutan percaya",
+            "membenarkan dengan hati, mengikrarkan dengan lisan, dan membuktikan dengan perbuatan"
+          ],
+          "answer": 6
         }
-        
+      ]
+    }
+    
       ]
     }
   ]
