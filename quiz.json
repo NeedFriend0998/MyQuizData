@@ -15,7 +15,7 @@
             "Al - iqrar di dalam iman secara bahasa adalah yang melahirkan sikap menerima",
             "Al - iqrar di dalam iman secara bahasa adalah tunduk"
           ],
-          "answer": 2
+          "answer": [2]
         },
         {
           "question": "Apa itu Iman secara istilah?",
@@ -29,7 +29,7 @@
             "Ikut ikutan percaya",
             "membenarkan dengan hati, mengikrarkan dengan lisan, dan membuktikan dengan perbuatan"
           ],
-          "answer": 6
+          "answer": [6]
         }
       ]
     },
@@ -48,7 +48,7 @@
             "Reforma agaria", 
             "Entahlah"
             ],
-          "answer": 1
+          "answer": [1]
         },
         {
           "question": "Bagaimana indonesia membangun kembali perekonomiannya yang hancur akibat perang & penjajahan selama ratusan tahun pada sektor pertanian?",
@@ -60,7 +60,7 @@
             "pemerintah melakukan program reforma agraria untuk memperbaiki sistem kepemilikan tanah dan meningkatkan produksi pertanian",
             "pidato gk jelas"
             ],
-          "answer": 3
+          "answer": [3]
         },
         {
           "question": "Bagaimana indonesia membangun kembali perekonomiannya yang hancur akibat perang & penjajahan selama ratusan tahun dalam sektor perikanan?",
@@ -72,7 +72,7 @@
             "nanam sawit",
             "pidato gk jelas"
             ],
-          "answer": 2
+          "answer": [2]
         },
         {
           "question": "apa yang dilakukan pemerintah untuk memudahkan distribusi barang dan jasa di seluruh indonesia?",
@@ -84,7 +84,7 @@
             "nanam sawit",
             "pidato gk jelas"
             ],
-          "answer": 1
+          "answer": [1]
         },
         {
           "question": "Kapan masa reformasi Indonesia di mulai setelah terjadi kejadian tragedi reformasi 1998 yang memaksa soeharto untuk mengundurkan diri?",
@@ -95,7 +95,7 @@
             "2012", 
             "2018"
             ],
-          "answer": 0
+          "answer": [0]
         },
         {
           "question": "Berapa tahun presiden soeharto memerintah di Indonesia?",
@@ -106,7 +106,7 @@
             "32 tahun", 
             "1 tahun"
             ],
-          "answer": 2
+          "answer": [2]
         }
       ]
     },
@@ -119,7 +119,7 @@
         {
           "question": "Apa itu pidato",
           "type": "uraian",
-          "answerText": [ "sebuah penyampaian pesan dari seorang pembicara kepada para pendengar", "Sebuah pesan yang di sampaikan dari pembicara kepada pendengar", "Sebuah penyampaian pesan dari seorang pembicara kepada para pendengar", "Sebuah penyampaian pesan dari seorang pembicara kepada pendengar" ]
+          "answerText": ["sebuah penyampaian pesan dari seorang pembicara kepada para pendengar", "Sebuah pesan yang di sampaikan dari pembicara kepada pendengar", "Sebuah penyampaian pesan dari seorang pembicara kepada para pendengar", "Sebuah penyampaian pesan dari seorang pembicara kepada pendengar"]
         }
       ]
     }
