@@ -99,40 +99,77 @@
             "1 tahun"
             ],
           "answer": 2
-        ]
         },
-        {
+    {
       "id": "Bahasa Indonesia",
       "name": "Bahasa Indonesia",
-      "reading": "iman secara bahasa adalah pengakuan (al - iqrar ), yang melahirkan sikap menerima ( al - qabul ) dan tunduk ( al - izzian ).\n Iman secara istilah yaitu membenarkan dengan hati, mengikrarkan dengan lisan, dan membuktikan dengan perbuatan",
+      "reading": "Reforma agraria adalah penataan ulang struktur penguasaan, pemilikan, penggunaan, dan pemanfaatan tanah secara adil dan merata. Singkatnya Reforma agraria seperti membangun ulang source code tapi bedanya ini source code negara bukan project. Masa reformasi Indonesia di mulai pasa tahun 1998. setelah terjadinya kejadian tragedi reformasi 1998 yang memaksakan Soeharto untuk mengundurkan diri sebagai presiden setelah 32 tahun memerintah \n (bacaan ini panjang tolong perpanjang waktu baca anda agar dapat menjawab pertanyaan dengan benar)",
+      "imageUrl": "",
       "questions": [
         {
-          "question": "apa itu Al - iqrar?",
+          "question": "penataan ulang struktur penguasaan, penggunaan, dan pemanfaatan tanah secara adil dan merata adalah",
           "options": [
-            "Serah, gue bukan ustadz 😭",
-            "Yo ndak tahu tanya kok tanya saya",
-            "Al - iqrar di dalam iman secara bahasa adalah pengakuan",
-            "Al - iqrar di dalam iman secara bahasa adalah yang melahirkan sikap menerima",
-            "Al - iqrar di dalam iman secara bahasa adalah tunduk"
-          ],
+            "Gk Tahu", 
+            "Reforma agraria", 
+            "Reforma agaria", 
+            "Entahlah"
+            ],
+          "answer": 1
+        },
+        {
+          "question": "Bagaimana indonesia membangun kembali perekonomiannya yang hancur akibat perang & penjajahan selama ratusan tahun pada sektor pertanian?",
+          "options": [
+            "Pasrah lah gk tahu jawabannya gua woi", 
+            "Brain is not responding", 
+            "nanam sawit", 
+            "pemerintah melakukan program reforma agraria untuk memperbaiki sistem kepemilikan tanah dan meningkatkan produksi pertanian",
+            "pidato gk jelas"
+            ],
+          "answer": 3
+        },
+        {
+          "question": "Bagaimana indonesia membangun kembali perekonomiannya yang hancur akibat perang & penjajahan selama ratusan tahun dalam sektor perikanan?",
+          "options": [
+            "Pasrah lah gk tahu jawabannya gua woi", 
+            "Brain is not responding", 
+            "pemerintah melakukan program yang dapat meningkatkan produksi ikan & memperbaiki infrastruktur seperti pelabuhan dan pasar ikan", 
+            "nanam sawit",
+            "pidato gk jelas"
+            ],
           "answer": 2
         },
         {
-          "question": "Apa itu Iman secara istilah?",
+          "question": "apa yang dilakukan pemerintah untuk memudahkan distribusi barang dan jasa di seluruh indonesia?",
           "options": [
-            "Serah, gue bukan ustadz 😭",
-            "Tanya Google sana",
-            "Yang penting yakin dulu aja 🗿",
-            "Yo ndak tahu tanya kok tanya saya",
-            "hanya percaya sekali",
-            "Ikut ikutan percaya",
-            "membenarkan dengan hati, mengikrarkan dengan lisan, dan membuktikan dengan perbuatan"
-          ],
-          "answer": 6
+            "Pasrah lah gk tahu jawabannya gua woi", 
+            "membangun infrastruktur industri seperti jalan, pelabuhan, dan bandara", 
+            "pemerintah melakukan program yang dapat meningkatkan produksi ikan & memperbaiki infrastruktur seperti pelabuhan dan pasar ikan", 
+            "nanam sawit",
+            "pidato gk jelas"
+            ],
+          "answer": 1
+        },
+        {
+          "question": "Kapan masa reformasi Indonesia di mulai setelah terjadi kejadian tragedi reformasi 1998 yang memaksa soeharto untuk mengundurkan diri?",
+          "options": [
+            "1998", 
+            "200 SM", 
+            "2012", 
+            "2018"
+            ],
+          "answer": 0
+        },
+        {
+          "question": "Berapa tahun presiden soeharto memerintah di Indonesia?",
+          "options": [
+            "9 tahun", 
+            "15 tahun", 
+            "32 tahun", 
+            "1 tahun"
+            ],
+          "answer": 2
         }
-      ]
-    }
-    
+        
       ]
     }
   ]
