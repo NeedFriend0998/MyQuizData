@@ -119,8 +119,12 @@
         {
           "question": "Apa itu pidato",
           "type": "uraian",
-          "answerTexts": [ "sebuah penyampaian pesan dari seorang pembicara kepada para pendengar", "Sebuah pesan yang di sampaikan dari pembicara kepada pendengar", "Sebuah penyampaian pesan dari seorang pembicara kepada pendengar", "Sebuah penyampaian pesan dari seorang pembicara kepada pendengar"
-]
+          "answerTexts": [ "sebuah penyampaian pesan dari seorang pembicara kepada para pendengar", "Sebuah pesan yang di sampaikan dari pembicara kepada pendengar", "Sebuah penyampaian pesan dari seorang pembicara kepada pendengar", "Sebuah penyampaian pesan dari seorang pembicara kepada pendengar" ]
+        },
+        {
+          "question": "sebutkan ciri ciri teks pidato",
+          "type": "uraian",
+          "answerTexts": [ "Memiliki tujuan yang jelas dan menarik", "Bisa diselingi dengan humor", "Isinya mengandung kebenaran", "Pidato harus bersifat efektif" ]
         }
       ]
     }
