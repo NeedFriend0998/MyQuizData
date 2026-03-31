@@ -105,72 +105,19 @@
     {
       "id": "Bahasa Indonesia",
       "name": "Bahasa Indonesia",
-      "reading": "Pidato adalah sebuah penyampaian pesan dari seorang pembicara kepada pendengar. \nCiri - Ciri pidato:\n• Memiliki tujuan yang jelas & menarik\n• Isinya mengandung kebenaran\n• Pidato harus bersifat efektif\n• Bisa diselingi dengan humor",
+      "reading": "Pidato adalah sebuah penyampaian pesan dari seorang pembicara kepada pendengar. \nCiri - Ciri pidato:\n• Memiliki tujuan yang jelas & menarik\n• Isinya mengandung kebenaran\n• Pidato harus bersifat efektif\n• Bisa diselingi dengan humor\n\nOrator adalah Orang yanh menyampaikan pidato.\nAudiens adalah orang yang mendengarkan pidato atau orang yang menyimak pidato.\n Audiens biasanya berumur 17 tahun ke atas.",
       "imageUrl": "",
       "questions": [
         {
-          "question": "penataan ulang struktur penguasaan, penggunaan, dan pemanfaatan tanah secara adil dan merata adalah",
+          "question": "",
           "options": [
-            "Gk Tahu", 
-            "Reforma agraria", 
-            "Reforma agaria", 
-            "Entahlah"
+            "", 
+            "", 
+            "", 
+            ""
             ],
           "answer": 1
         },
-        {
-          "question": "Bagaimana indonesia membangun kembali perekonomiannya yang hancur akibat perang & penjajahan selama ratusan tahun pada sektor pertanian?",
-          "options": [
-            "Pasrah lah gk tahu jawabannya gua woi", 
-            "Brain is not responding", 
-            "nanam sawit", 
-            "pemerintah melakukan program reforma agraria untuk memperbaiki sistem kepemilikan tanah dan meningkatkan produksi pertanian",
-            "pidato gk jelas"
-            ],
-          "answer": 3
-        },
-        {
-          "question": "Bagaimana indonesia membangun kembali perekonomiannya yang hancur akibat perang & penjajahan selama ratusan tahun dalam sektor perikanan?",
-          "options": [
-            "Pasrah lah gk tahu jawabannya gua woi", 
-            "Brain is not responding", 
-            "pemerintah melakukan program yang dapat meningkatkan produksi ikan & memperbaiki infrastruktur seperti pelabuhan dan pasar ikan", 
-            "nanam sawit",
-            "pidato gk jelas"
-            ],
-          "answer": 2
-        },
-        {
-          "question": "apa yang dilakukan pemerintah untuk memudahkan distribusi barang dan jasa di seluruh indonesia?",
-          "options": [
-            "Pasrah lah gk tahu jawabannya gua woi", 
-            "membangun infrastruktur industri seperti jalan, pelabuhan, dan bandara", 
-            "pemerintah melakukan program yang dapat meningkatkan produksi ikan & memperbaiki infrastruktur seperti pelabuhan dan pasar ikan", 
-            "nanam sawit",
-            "pidato gk jelas"
-            ],
-          "answer": 1
-        },
-        {
-          "question": "Kapan masa reformasi Indonesia di mulai setelah terjadi kejadian tragedi reformasi 1998 yang memaksa soeharto untuk mengundurkan diri?",
-          "options": [
-            "1998", 
-            "200 SM", 
-            "2012", 
-            "2018"
-            ],
-          "answer": 0
-        },
-        {
-          "question": "Berapa tahun presiden soeharto memerintah di Indonesia?",
-          "options": [
-            "9 tahun", 
-            "15 tahun", 
-            "32 tahun", 
-            "1 tahun"
-            ],
-          "answer": 2
-        }
         
       ]
     }
