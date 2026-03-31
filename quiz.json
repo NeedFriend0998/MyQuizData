@@ -7,6 +7,7 @@
       "questions": [
         {
           "question": "apa itu Al - iqrar?",
+          "type": "pilihan",
           "options": [
             "Serah, gue bukan ustadz 😭",
             "Yo ndak tahu tanya kok tanya saya",
@@ -18,6 +19,7 @@
         },
         {
           "question": "Apa itu Iman secara istilah?",
+          "type": "pilihan",
           "options": [
             "Serah, gue bukan ustadz 😭",
             "Tanya Google sana",
@@ -39,6 +41,7 @@
       "questions": [
         {
           "question": "penataan ulang struktur penguasaan, penggunaan, dan pemanfaatan tanah secara adil dan merata adalah",
+          "type": "pilihan",
           "options": [
             "Gk Tahu", 
             "Reforma agraria", 
@@ -49,6 +52,7 @@
         },
         {
           "question": "Bagaimana indonesia membangun kembali perekonomiannya yang hancur akibat perang & penjajahan selama ratusan tahun pada sektor pertanian?",
+          "type": "pilihan",
           "options": [
             "Pasrah lah gk tahu jawabannya gua woi", 
             "Brain is not responding", 
@@ -60,6 +64,7 @@
         },
         {
           "question": "Bagaimana indonesia membangun kembali perekonomiannya yang hancur akibat perang & penjajahan selama ratusan tahun dalam sektor perikanan?",
+          "type": "pilihan",
           "options": [
             "Pasrah lah gk tahu jawabannya gua woi", 
             "Brain is not responding", 
@@ -71,6 +76,7 @@
         },
         {
           "question": "apa yang dilakukan pemerintah untuk memudahkan distribusi barang dan jasa di seluruh indonesia?",
+          "type": "pilihan",
           "options": [
             "Pasrah lah gk tahu jawabannya gua woi", 
             "membangun infrastruktur industri seperti jalan, pelabuhan, dan bandara", 
@@ -82,6 +88,7 @@
         },
         {
           "question": "Kapan masa reformasi Indonesia di mulai setelah terjadi kejadian tragedi reformasi 1998 yang memaksa soeharto untuk mengundurkan diri?",
+          "type": "pilihan",
           "options": [
             "1998", 
             "200 SM", 
@@ -92,6 +99,7 @@
         },
         {
           "question": "Berapa tahun presiden soeharto memerintah di Indonesia?",
+          "type": "pilihan",
           "options": [
             "9 tahun", 
             "15 tahun", 
@@ -110,16 +118,8 @@
       "questions": [
         {
           "question": "Apa itu pidato",
-          "options": [
-            "", 
-            "", 
-            "", 
-            ""
-            ],
-          "answer": 1
-        },
-        
-      ]
+          "type": "uraian",
+          "answerText": "membenarkan dengan hati, mengikrarkan dengan lisan, dan membuktikan dengan perbuatan"
     }
   ]
 }
