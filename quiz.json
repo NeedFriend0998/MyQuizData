@@ -130,7 +130,19 @@
           "question": "Sebutkan 2 contoh salam pembuka dalam pidato",
           "type": "uraian",
           "answerTexts": [ "Assalamualaikum dan Selamat Pagi", "Puji syukur ke hadirat Tuhan Yang Maha Esa dan terimakasih atas kesempatan para hadirin", "Para Hadirin dan Assalamualaikum" ]
+        },
+        {
+      "id": "Matematika",
+      "name": "Matematika",
+      "reading": "",
+      "imageUrl": "",
+      "questions": [
+        {
+          "question": " ",
+          "type": "uraian",
+          "answerTexts": [ " " ]
         }
+        
       ]
     }
   ]
